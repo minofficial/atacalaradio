@@ -1,0 +1,51 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.atacalaradio.com" resolutions="1x" timestamp="1498433898144">
+  <folder name="css">
+    <file name="site_global.css" crc="4022469373"/>
+    <file name="index.css" crc="4044538414" ref="index"/>
+    <file name="contacto.css" crc="3831631954" ref="contacto"/>
+    <file name="noticias.css" crc="337609900" ref="noticias"/>
+    <file name="videos.css" crc="3831631954" ref="videos"/>
+    <file name="eventos.css" crc="3831631954" ref="eventos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:noticias:eventos:videos:contacto"/>
+    <file name="museutils.js" crc="163421577" ref="index:noticias:eventos:videos:contacto"/>
+    <file name="whatinput.js" crc="86476730" ref="index:noticias:eventos:videos:contacto"/>
+    <file name="museconfig.js" crc="36584860" ref="index:noticias:eventos:videos:contacto"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:noticias"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:noticias:eventos:videos:contacto"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:noticias:eventos:videos:contacto"/>
+    <file name="require.js" crc="244322403" ref="index:noticias:eventos:videos:contacto"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="facebook.png" crc="317936629" ref="index:noticias"/>
+    <file name="twitter.png" crc="4102706121" ref="index:noticias"/>
+    <file name="rss.png" crc="3858264630" ref="index:noticias"/>
+    <file name="ataca_la_radio-272.jpg" crc="483421489" ref="index"/>
+    <file name="ataca_la_radio-283.jpg" crc="4136608549" ref="index"/>
+    <file name="ataca_la_radio_el_bano-129.jpg" crc="3851837977" ref="index"/>
+    <file name="ataca_la_radio_el_bano-132.jpg" crc="413873843" ref="index"/>
+    <file name="atacalaradio-crop-u1240.png" crc="281361104" ref="index"/>
+    <file name="128695.jpg" crc="144730583" ref="index"/>
+    <file name="icon.png" crc="397855693" seo="true" ref="index"/>
+    <file name="128677.jpg" crc="3829059891" ref="index"/>
+    <file name="ar.png" crc="3873402047" seo="true" ref="index"/>
+    <file name="placeholder.jpg" crc="4232066516" ref="index"/>
+    <file name="road.jpg" crc="104962627" seo="true" ref="index"/>
+    <file name="cactus-crop-u1205.jpg" crc="255365412" ref="index"/>
+    <file name="cactus-crop-u1213.jpg" crc="255365412" ref="index"/>
+    <file name="ataca_la_radio-293.jpg" crc="3769561489" ref="index"/>
+  </folder>
+  <file name="index.html" crc="402938313" seo="true" mt="1498433895931" redirect="true"/>
+  <file name="noticias.html" crc="3975620414" seo="true" mt="1498432404107" redirect="true"/>
+  <file name="eventos.html" crc="406039026" seo="true" mt="1498432123817" redirect="false"/>
+  <file name="videos.html" crc="4122981649" seo="true" mt="1498432127638" redirect="false"/>
+  <file name="contacto.html" crc="4115100677" seo="true" mt="1498432131920" redirect="false"/>
+</manifest>
